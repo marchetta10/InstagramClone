@@ -27,6 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Insta 1](https://user-images.githubusercontent.com/74275161/108633765-0d9e2c00-7444-11eb-8163-6f18184a21b4.gif)
+![Insta 2](https://user-images.githubusercontent.com/74275161/108633820-61107a00-7444-11eb-91ec-c7269e14f1d6.gif)
+
+
 
 
 ## Notes
