@@ -94,6 +94,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Last Insta](https://user-images.githubusercontent.com/74275161/109438126-73675680-79f6-11eb-8e71-c4d4d34824df.gif)
+
 
 
 ## Notes
